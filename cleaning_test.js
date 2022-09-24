@@ -73,6 +73,21 @@ response = {
 execute_test(title, '/', request, response)
 
 
+// Verify that once a spot is cleaned, you can't clean it again
+title ='Only clean a coordinate once'
+request = {
+    roomSize: [5, 5],
+    coords: [1, 1],
+    patches: [ [2, 1] ],
+    instructions: 'EEWW'
+}
+response = {
+    coords: [1, 1],
+    patches: 1
+}
+execute_test(title, '/', request, response)
+
+
 // Since there's no patches in the room, the result should be 0
 title ='Move in a clean room'
 request = {
