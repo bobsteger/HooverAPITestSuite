@@ -31,7 +31,7 @@ var response = {
 execute_test(title, '/', request, response)
 
 
-title ='Clean originating square'
+title ='Don\'t clean originating square'
 request = {
     roomSize: [5, 5],
     coords: [2, 2],
@@ -40,12 +40,12 @@ request = {
 }
 response = {
     coords: [3,2],
-    patches: 1
+    patches: 0
 }
 execute_test(title, '/', request, response)
 
 
-title = 'Don\'t clean destination square'
+title = 'Clean destination square'
 request = {
     roomSize: [5, 5],
     coords: [2, 2],
@@ -73,6 +73,7 @@ response = {
 execute_test(title, '/', request, response)
 
 
+// Since there's no patches in the room, the result should be 0
 title ='Move in a clean room'
 request = {
     roomSize: [5, 5],
