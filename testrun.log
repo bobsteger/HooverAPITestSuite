@@ -1,0 +1,2448 @@
+CodeceptJS v3.3.5 #StandWithUkraine
+Using test root "C:\Users\Work\Documents\Job Search\PlatformScienceTest\HooverAPITestSuite"
+
+bounds --
+
+  ΓêÜ Hoover travel past lower bounds in 46ms
+
+  ΓêÜ Hoo0ver travel beyond upper bounds in 8ms
+
+  ΓêÜ Cannot originate hoover outside of upper Bounds in 6ms
+
+  ΓêÜ Cannot originate hoover outside of lower Bounds in 6ms
+
+  ΓêÜ Cannot define dirt patch outside of upper Bounds in 6ms
+
+  ΓêÜ Cannot define dirt patch outside of lower Bounds in 11ms
+
+  ΓêÜ Room size must be greater than 0 in 5ms
+cleaning --
+
+  ΓêÜ Clean every square in 7ms
+
+  ├ù Does not clean originating square in 9ms
+
+  ΓêÜ Clean destination square in 7ms
+
+  ├ù Clean square that is neither original or final destination in 7ms
+
+  ├ù Move in a clean room in 7ms
+Run each direction --
+
+  ├ù Travel file 0, 0 to 4 Test 1 in 7ms
+
+  ├ù Travel file 0, 0 to 4 Test 2 in 6ms
+
+  ├ù Travel file 1, 0 to 4 Test 1 in 6ms
+
+  ├ù Travel file 1, 0 to 4 Test 2 in 6ms
+
+  ├ù Travel file 2, 0 to 4 Test 1 in 6ms
+
+  ├ù Travel file 2, 0 to 4 Test 2 in 6ms
+
+  ├ù Travel file 3, 0 to 4 Test 1 in 6ms
+
+  ├ù Travel file 3, 0 to 4 Test 2 in 7ms
+
+  ├ù Travel file 4, 0 to 4 Test 1 in 7ms
+
+  ├ù Travel file 4, 0 to 4 Test 2 in 7ms
+
+  ├ù Travel file 0, 4 to 0 Test 1 in 7ms
+
+  ├ù Travel file 0, 4 to 0 Test 2 in 7ms
+
+  ├ù Travel file 1, 4 to 0 Test 1 in 7ms
+
+  ├ù Travel file 1, 4 to 0 Test 2 in 7ms
+
+  ├ù Travel file 2, 4 to 0 Test 1 in 6ms
+
+  ├ù Travel file 2, 4 to 0 Test 2 in 6ms
+
+  ├ù Travel file 3, 4 to 0 Test 1 in 6ms
+
+  ├ù Travel file 3, 4 to 0 Test 2 in 6ms
+
+  ├ù Travel file 4, 4 to 0 Test 1 in 7ms
+
+  ├ù Travel file 4, 4 to 0 Test 2 in 6ms
+
+  ├ù Travel row 0, 0 to 4 Test 1 in 7ms
+
+  ├ù Travel row 0, 0 to 4 Test 2 in 6ms
+
+  ├ù Travel row 1, 0 to 4 Test 1 in 16ms
+
+  ├ù Travel row 1, 0 to 4 Test 2 in 7ms
+
+  ├ù Travel row 2, 0 to 4 Test 1 in 7ms
+
+  ├ù Travel row 2, 0 to 4 Test 2 in 7ms
+
+  ├ù Travel row 3, 0 to 4 Test 1 in 7ms
+
+  ├ù Travel row 3, 0 to 4 Test 2 in 6ms
+
+  ├ù Travel row 4, 0 to 4 Test 1 in 5ms
+
+  ├ù Travel row 4, 0 to 4 Test 2 in 7ms
+
+  ├ù Travel row 0, 4 to 0 Test 1 in 7ms
+
+  ├ù Travel row 0, 4 to 0 Test 2 in 7ms
+
+  ├ù Travel row 1, 4 to 0 Test 1 in 7ms
+
+  ├ù Travel row 1, 4 to 0 Test 2 in 7ms
+
+  ├ù Travel row 2, 4 to 0 Test 1 in 8ms
+
+  ├ù Travel row 2, 4 to 0 Test 2 in 8ms
+
+  ├ù Travel row 3, 4 to 0 Test 1 in 8ms
+
+  ├ù Travel row 3, 4 to 0 Test 2 in 8ms
+
+  ├ù Travel row 4, 4 to 0 Test 1 in 8ms
+
+  ├ù Travel row 4, 4 to 0 Test 2 in 9ms
+Start from each point --
+
+  ├ù Start from 0, 0 - Test 1 in 8ms
+
+  ├ù Start from 0, 0 - Test 2 in 6ms
+
+  ├ù Start from 0, 1 - Test 1 in 6ms
+
+  ├ù Start from 0, 1 - Test 2 in 6ms
+
+  ├ù Start from 0, 2 - Test 1 in 9ms
+
+  ├ù Start from 0, 2 - Test 2 in 9ms
+
+  ├ù Start from 0, 3 - Test 1 in 8ms
+
+  ├ù Start from 0, 3 - Test 2 in 7ms
+
+  ├ù Start from 0, 4 - Test 1 in 7ms
+
+  ├ù Start from 0, 4 - Test 2 in 6ms
+
+  ├ù Start from 1, 0 - Test 1 in 6ms
+
+  ├ù Start from 1, 0 - Test 2 in 6ms
+
+  ├ù Start from 1, 1 - Test 1 in 5ms
+
+  ├ù Start from 1, 1 - Test 2 in 7ms
+
+  ├ù Start from 1, 2 - Test 1 in 6ms
+
+  ├ù Start from 1, 2 - Test 2 in 5ms
+
+  ├ù Start from 1, 3 - Test 1 in 5ms
+
+  ├ù Start from 1, 3 - Test 2 in 5ms
+
+  ├ù Start from 1, 4 - Test 1 in 5ms
+
+  ├ù Start from 1, 4 - Test 2 in 7ms
+
+  ├ù Start from 2, 0 - Test 1 in 5ms
+
+  ├ù Start from 2, 0 - Test 2 in 6ms
+
+  ├ù Start from 2, 1 - Test 1 in 5ms
+
+  ├ù Start from 2, 1 - Test 2 in 5ms
+
+  ├ù Start from 2, 2 - Test 1 in 6ms
+
+  ├ù Start from 2, 2 - Test 2 in 6ms
+
+  ├ù Start from 2, 3 - Test 1 in 9ms
+
+  ├ù Start from 2, 3 - Test 2 in 6ms
+
+  ├ù Start from 2, 4 - Test 1 in 6ms
+
+  ├ù Start from 2, 4 - Test 2 in 5ms
+
+  ├ù Start from 3, 0 - Test 1 in 5ms
+
+  ├ù Start from 3, 0 - Test 2 in 6ms
+
+  ├ù Start from 3, 1 - Test 1 in 6ms
+
+  ├ù Start from 3, 1 - Test 2 in 7ms
+
+  ├ù Start from 3, 2 - Test 1 in 6ms
+
+  ├ù Start from 3, 2 - Test 2 in 9ms
+
+  ├ù Start from 3, 3 - Test 1 in 8ms
+
+  ├ù Start from 3, 3 - Test 2 in 6ms
+
+  ├ù Start from 3, 4 - Test 1 in 6ms
+
+  ├ù Start from 3, 4 - Test 2 in 7ms
+
+  ├ù Start from 4, 0 - Test 1 in 5ms
+
+  ├ù Start from 4, 0 - Test 2 in 5ms
+
+  ├ù Start from 4, 1 - Test 1 in 6ms
+
+  ├ù Start from 4, 1 - Test 2 in 7ms
+
+  ├ù Start from 4, 2 - Test 1 in 6ms
+
+  ├ù Start from 4, 2 - Test 2 in 6ms
+
+  ├ù Start from 4, 3 - Test 1 in 20ms
+
+  ├ù Start from 4, 3 - Test 2 in 7ms
+
+  ├ù Start from 4, 4 - Test 1 in 7ms
+
+  ├ù Start from 4, 4 - Test 2 in 7ms
+-- FAILURES:
+
+  1) cleaning
+       Does not clean originating square:
+
+      expected { coords: [ 3, 2 ], patches: 1 } to deeply match { coords: [ 3, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,2],"patches":0}) at Test.<anonymous> (.\cleaning_test.js:34:7)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\cleaning_test.js:33:7)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,2],"patches":[[2,2]],"instructions":"E"}) at Test.<anonymous> (.\cleaning_test.js:27:7)
+  
+
+  2) cleaning
+       Clean square that is neither original or final destination:
+
+      expected { coords: [ 1, 4 ], patches: 2 } to deeply match { coords: [ 1, 4 ], patches: 1 }
+      + expected - actual
+
+         "coords": [
+           1
+           4
+         ]
+      -  "patches": 2
+      +  "patches": 1
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,4],"patches":1}) at Test.<anonymous> (.\cleaning_test.js:62:7)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\cleaning_test.js:61:7)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,4],"patches":[[2,4]],"instructions":"WW"}) at Test.<anonymous> (.\cleaning_test.js:55:7)
+  
+
+  3) cleaning
+       Move in a clean room:
+
+      expected { coords: [ +0, +0 ], patches: 4 } to deeply match { coords: [ +0, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,0],"patches":0}) at Test.<anonymous> (.\cleaning_test.js:76:7)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\cleaning_test.js:75:7)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\cleaning_test.js:69:7)
+  
+
+  4) Run each direction
+       Travel file 0, 0 to 4 Test 1:
+
+      expected { coords: [ +0, 4 ], patches: 4 } to deeply match { coords: [ +0, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  5) Run each direction
+       Travel file 0, 0 to 4 Test 2:
+
+      expected { coords: [ +0, 4 ], patches: 4 } to deeply match { coords: [ +0, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  6) Run each direction
+       Travel file 1, 0 to 4 Test 1:
+
+      expected { coords: [ 1, 4 ], patches: 4 } to deeply match { coords: [ 1, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  7) Run each direction
+       Travel file 1, 0 to 4 Test 2:
+
+      expected { coords: [ 1, 4 ], patches: 4 } to deeply match { coords: [ 1, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  8) Run each direction
+       Travel file 2, 0 to 4 Test 1:
+
+      expected { coords: [ 2, 4 ], patches: 4 } to deeply match { coords: [ 2, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  9) Run each direction
+       Travel file 2, 0 to 4 Test 2:
+
+      expected { coords: [ 2, 4 ], patches: 4 } to deeply match { coords: [ 2, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  10) Run each direction
+       Travel file 3, 0 to 4 Test 1:
+
+      expected { coords: [ 3, 4 ], patches: 4 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  11) Run each direction
+       Travel file 3, 0 to 4 Test 2:
+
+      expected { coords: [ 3, 4 ], patches: 4 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  12) Run each direction
+       Travel file 4, 0 to 4 Test 1:
+
+      expected { coords: [ 4, 4 ], patches: 4 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  13) Run each direction
+       Travel file 4, 0 to 4 Test 2:
+
+      expected { coords: [ 4, 4 ], patches: 4 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[],"instructions":"NNNN"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  14) Run each direction
+       Travel file 0, 4 to 0 Test 1:
+
+      expected { coords: [ +0, +0 ], patches: 4 } to deeply match { coords: [ +0, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  15) Run each direction
+       Travel file 0, 4 to 0 Test 2:
+
+      expected { coords: [ +0, +0 ], patches: 4 } to deeply match { coords: [ +0, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  16) Run each direction
+       Travel file 1, 4 to 0 Test 1:
+
+      expected { coords: [ 1, +0 ], patches: 4 } to deeply match { coords: [ 1, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  17) Run each direction
+       Travel file 1, 4 to 0 Test 2:
+
+      expected { coords: [ 1, +0 ], patches: 4 } to deeply match { coords: [ 1, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  18) Run each direction
+       Travel file 2, 4 to 0 Test 1:
+
+      expected { coords: [ 2, +0 ], patches: 4 } to deeply match { coords: [ 2, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  19) Run each direction
+       Travel file 2, 4 to 0 Test 2:
+
+      expected { coords: [ 2, +0 ], patches: 4 } to deeply match { coords: [ 2, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  20) Run each direction
+       Travel file 3, 4 to 0 Test 1:
+
+      expected { coords: [ 3, +0 ], patches: 4 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  21) Run each direction
+       Travel file 3, 4 to 0 Test 2:
+
+      expected { coords: [ 3, +0 ], patches: 4 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  22) Run each direction
+       Travel file 4, 4 to 0 Test 1:
+
+      expected { coords: [ 4, +0 ], patches: 4 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  23) Run each direction
+       Travel file 4, 4 to 0 Test 2:
+
+      expected { coords: [ 4, +0 ], patches: 4 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:34:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:33:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[],"instructions":"SSSS"}) at Test.<anonymous> (.\four_directions_test.js:27:11)
+  
+
+  24) Run each direction
+       Travel row 0, 0 to 4 Test 1:
+
+      expected { coords: [ 4, +0 ], patches: 4 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  25) Run each direction
+       Travel row 0, 0 to 4 Test 2:
+
+      expected { coords: [ 4, +0 ], patches: 4 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  26) Run each direction
+       Travel row 1, 0 to 4 Test 1:
+
+      expected { coords: [ 4, 1 ], patches: 4 } to deeply match { coords: [ 4, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           1
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,1],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,1],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  27) Run each direction
+       Travel row 1, 0 to 4 Test 2:
+
+      expected { coords: [ 4, 1 ], patches: 4 } to deeply match { coords: [ 4, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           1
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,1],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,1],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  28) Run each direction
+       Travel row 2, 0 to 4 Test 1:
+
+      expected { coords: [ 4, 2 ], patches: 4 } to deeply match { coords: [ 4, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           2
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,2],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,2],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  29) Run each direction
+       Travel row 2, 0 to 4 Test 2:
+
+      expected { coords: [ 4, 2 ], patches: 4 } to deeply match { coords: [ 4, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           2
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,2],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,2],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  30) Run each direction
+       Travel row 3, 0 to 4 Test 1:
+
+      expected { coords: [ 4, 3 ], patches: 4 } to deeply match { coords: [ 4, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           3
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,3],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,3],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  31) Run each direction
+       Travel row 3, 0 to 4 Test 2:
+
+      expected { coords: [ 4, 3 ], patches: 4 } to deeply match { coords: [ 4, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           3
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,3],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,3],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  32) Run each direction
+       Travel row 4, 0 to 4 Test 1:
+
+      expected { coords: [ 4, 4 ], patches: 4 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  33) Run each direction
+       Travel row 4, 0 to 4 Test 2:
+
+      expected { coords: [ 4, 4 ], patches: 4 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[],"instructions":"EEEE"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  34) Run each direction
+       Travel row 0, 4 to 0 Test 1:
+
+      expected { coords: [ +0, +0 ], patches: 4 } to deeply match { coords: [ +0, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  35) Run each direction
+       Travel row 0, 4 to 0 Test 2:
+
+      expected { coords: [ +0, +0 ], patches: 4 } to deeply match { coords: [ +0, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           0
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,0],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  36) Run each direction
+       Travel row 1, 4 to 0 Test 1:
+
+      expected { coords: [ +0, 1 ], patches: 4 } to deeply match { coords: [ +0, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           1
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,1],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,1],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  37) Run each direction
+       Travel row 1, 4 to 0 Test 2:
+
+      expected { coords: [ +0, 1 ], patches: 4 } to deeply match { coords: [ +0, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           1
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,1],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,1],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  38) Run each direction
+       Travel row 2, 4 to 0 Test 1:
+
+      expected { coords: [ +0, 2 ], patches: 4 } to deeply match { coords: [ +0, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           2
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,2],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,2],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  39) Run each direction
+       Travel row 2, 4 to 0 Test 2:
+
+      expected { coords: [ +0, 2 ], patches: 4 } to deeply match { coords: [ +0, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           2
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,2],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,2],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  40) Run each direction
+       Travel row 3, 4 to 0 Test 1:
+
+      expected { coords: [ +0, 3 ], patches: 4 } to deeply match { coords: [ +0, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           3
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,3],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,3],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  41) Run each direction
+       Travel row 3, 4 to 0 Test 2:
+
+      expected { coords: [ +0, 3 ], patches: 4 } to deeply match { coords: [ +0, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           3
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,3],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,3],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  42) Run each direction
+       Travel row 4, 4 to 0 Test 1:
+
+      expected { coords: [ +0, 4 ], patches: 4 } to deeply match { coords: [ +0, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  43) Run each direction
+       Travel row 4, 4 to 0 Test 2:
+
+      expected { coords: [ +0, 4 ], patches: 4 } to deeply match { coords: [ +0, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           0
+           4
+         ]
+      -  "patches": 4
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[0,4],"patches":0}) at Test.<anonymous> (.\four_directions_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\four_directions_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[],"instructions":"WWWW"}) at Test.<anonymous> (.\four_directions_test.js:9:11)
+  
+
+  44) Start from each point
+       Start from 0, 0 - Test 1:
+
+      expected { coords: [ 1, +0 ], patches: 1 } to deeply match { coords: [ 1, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[[0,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  45) Start from each point
+       Start from 0, 0 - Test 2:
+
+      expected { coords: [ 1, +0 ], patches: 1 } to deeply match { coords: [ 1, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,0],"patches":[[0,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  46) Start from each point
+       Start from 0, 1 - Test 1:
+
+      expected { coords: [ 1, 1 ], patches: 1 } to deeply match { coords: [ 1, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,1],"patches":[[0,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  47) Start from each point
+       Start from 0, 1 - Test 2:
+
+      expected { coords: [ 1, 1 ], patches: 1 } to deeply match { coords: [ 1, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,1],"patches":[[0,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  48) Start from each point
+       Start from 0, 2 - Test 1:
+
+      expected { coords: [ 1, 2 ], patches: 1 } to deeply match { coords: [ 1, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,2],"patches":[[0,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  49) Start from each point
+       Start from 0, 2 - Test 2:
+
+      expected { coords: [ 1, 2 ], patches: 1 } to deeply match { coords: [ 1, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,2],"patches":[[0,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  50) Start from each point
+       Start from 0, 3 - Test 1:
+
+      expected { coords: [ 1, 3 ], patches: 1 } to deeply match { coords: [ 1, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,3],"patches":[[0,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  51) Start from each point
+       Start from 0, 3 - Test 2:
+
+      expected { coords: [ 1, 3 ], patches: 1 } to deeply match { coords: [ 1, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,3],"patches":[[0,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  52) Start from each point
+       Start from 0, 4 - Test 1:
+
+      expected { coords: [ 1, 4 ], patches: 1 } to deeply match { coords: [ 1, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[[0,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  53) Start from each point
+       Start from 0, 4 - Test 2:
+
+      expected { coords: [ 1, 4 ], patches: 1 } to deeply match { coords: [ 1, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           1
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[1,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[0,4],"patches":[[0,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  54) Start from each point
+       Start from 1, 0 - Test 1:
+
+      expected { coords: [ 2, +0 ], patches: 1 } to deeply match { coords: [ 2, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,0],"patches":[[1,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  55) Start from each point
+       Start from 1, 0 - Test 2:
+
+      expected { coords: [ 2, +0 ], patches: 1 } to deeply match { coords: [ 2, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,0],"patches":[[1,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  56) Start from each point
+       Start from 1, 1 - Test 1:
+
+      expected { coords: [ 2, 1 ], patches: 1 } to deeply match { coords: [ 2, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,1],"patches":[[1,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  57) Start from each point
+       Start from 1, 1 - Test 2:
+
+      expected { coords: [ 2, 1 ], patches: 1 } to deeply match { coords: [ 2, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,1],"patches":[[1,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  58) Start from each point
+       Start from 1, 2 - Test 1:
+
+      expected { coords: [ 2, 2 ], patches: 1 } to deeply match { coords: [ 2, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,2],"patches":[[1,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  59) Start from each point
+       Start from 1, 2 - Test 2:
+
+      expected { coords: [ 2, 2 ], patches: 1 } to deeply match { coords: [ 2, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,2],"patches":[[1,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  60) Start from each point
+       Start from 1, 3 - Test 1:
+
+      expected { coords: [ 2, 3 ], patches: 1 } to deeply match { coords: [ 2, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,3],"patches":[[1,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  61) Start from each point
+       Start from 1, 3 - Test 2:
+
+      expected { coords: [ 2, 3 ], patches: 1 } to deeply match { coords: [ 2, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,3],"patches":[[1,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  62) Start from each point
+       Start from 1, 4 - Test 1:
+
+      expected { coords: [ 2, 4 ], patches: 1 } to deeply match { coords: [ 2, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,4],"patches":[[1,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  63) Start from each point
+       Start from 1, 4 - Test 2:
+
+      expected { coords: [ 2, 4 ], patches: 1 } to deeply match { coords: [ 2, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           2
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[2,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[1,4],"patches":[[1,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  64) Start from each point
+       Start from 2, 0 - Test 1:
+
+      expected { coords: [ 3, +0 ], patches: 1 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,0],"patches":[[2,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  65) Start from each point
+       Start from 2, 0 - Test 2:
+
+      expected { coords: [ 3, +0 ], patches: 1 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,0],"patches":[[2,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  66) Start from each point
+       Start from 2, 1 - Test 1:
+
+      expected { coords: [ 3, 1 ], patches: 1 } to deeply match { coords: [ 3, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,1],"patches":[[2,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  67) Start from each point
+       Start from 2, 1 - Test 2:
+
+      expected { coords: [ 3, 1 ], patches: 1 } to deeply match { coords: [ 3, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,1],"patches":[[2,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  68) Start from each point
+       Start from 2, 2 - Test 1:
+
+      expected { coords: [ 3, 2 ], patches: 1 } to deeply match { coords: [ 3, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,2],"patches":[[2,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  69) Start from each point
+       Start from 2, 2 - Test 2:
+
+      expected { coords: [ 3, 2 ], patches: 1 } to deeply match { coords: [ 3, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,2],"patches":[[2,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  70) Start from each point
+       Start from 2, 3 - Test 1:
+
+      expected { coords: [ 3, 3 ], patches: 1 } to deeply match { coords: [ 3, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,3],"patches":[[2,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  71) Start from each point
+       Start from 2, 3 - Test 2:
+
+      expected { coords: [ 3, 3 ], patches: 1 } to deeply match { coords: [ 3, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,3],"patches":[[2,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  72) Start from each point
+       Start from 2, 4 - Test 1:
+
+      expected { coords: [ 3, 4 ], patches: 1 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,4],"patches":[[2,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  73) Start from each point
+       Start from 2, 4 - Test 2:
+
+      expected { coords: [ 3, 4 ], patches: 1 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[2,4],"patches":[[2,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  74) Start from each point
+       Start from 3, 0 - Test 1:
+
+      expected { coords: [ 4, +0 ], patches: 1 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,0],"patches":[[3,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  75) Start from each point
+       Start from 3, 0 - Test 2:
+
+      expected { coords: [ 4, +0 ], patches: 1 } to deeply match { coords: [ 4, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,0],"patches":[[3,0]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  76) Start from each point
+       Start from 3, 1 - Test 1:
+
+      expected { coords: [ 4, 1 ], patches: 1 } to deeply match { coords: [ 4, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,1],"patches":[[3,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  77) Start from each point
+       Start from 3, 1 - Test 2:
+
+      expected { coords: [ 4, 1 ], patches: 1 } to deeply match { coords: [ 4, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,1],"patches":[[3,1]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  78) Start from each point
+       Start from 3, 2 - Test 1:
+
+      expected { coords: [ 4, 2 ], patches: 1 } to deeply match { coords: [ 4, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,2],"patches":[[3,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  79) Start from each point
+       Start from 3, 2 - Test 2:
+
+      expected { coords: [ 4, 2 ], patches: 1 } to deeply match { coords: [ 4, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,2],"patches":[[3,2]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  80) Start from each point
+       Start from 3, 3 - Test 1:
+
+      expected { coords: [ 4, 3 ], patches: 1 } to deeply match { coords: [ 4, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,3],"patches":[[3,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  81) Start from each point
+       Start from 3, 3 - Test 2:
+
+      expected { coords: [ 4, 3 ], patches: 1 } to deeply match { coords: [ 4, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,3],"patches":[[3,3]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  82) Start from each point
+       Start from 3, 4 - Test 1:
+
+      expected { coords: [ 4, 4 ], patches: 1 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,4],"patches":[[3,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  83) Start from each point
+       Start from 3, 4 - Test 2:
+
+      expected { coords: [ 4, 4 ], patches: 1 } to deeply match { coords: [ 4, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           4
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[4,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[3,4],"patches":[[3,4]],"instructions":"E"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  84) Start from each point
+       Start from 4, 0 - Test 1:
+
+      expected { coords: [ 3, +0 ], patches: 1 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[[4,0]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  85) Start from each point
+       Start from 4, 0 - Test 2:
+
+      expected { coords: [ 3, +0 ], patches: 1 } to deeply match { coords: [ 3, +0 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           0
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,0],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,0],"patches":[[4,0]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  86) Start from each point
+       Start from 4, 1 - Test 1:
+
+      expected { coords: [ 3, 1 ], patches: 1 } to deeply match { coords: [ 3, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,1],"patches":[[4,1]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  87) Start from each point
+       Start from 4, 1 - Test 2:
+
+      expected { coords: [ 3, 1 ], patches: 1 } to deeply match { coords: [ 3, 1 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           1
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,1],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,1],"patches":[[4,1]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  88) Start from each point
+       Start from 4, 2 - Test 1:
+
+      expected { coords: [ 3, 2 ], patches: 1 } to deeply match { coords: [ 3, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,2],"patches":[[4,2]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  89) Start from each point
+       Start from 4, 2 - Test 2:
+
+      expected { coords: [ 3, 2 ], patches: 1 } to deeply match { coords: [ 3, 2 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           2
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,2],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,2],"patches":[[4,2]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  90) Start from each point
+       Start from 4, 3 - Test 1:
+
+      expected { coords: [ 3, 3 ], patches: 1 } to deeply match { coords: [ 3, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,3],"patches":[[4,3]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  91) Start from each point
+       Start from 4, 3 - Test 2:
+
+      expected { coords: [ 3, 3 ], patches: 1 } to deeply match { coords: [ 3, 3 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           3
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,3],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,3],"patches":[[4,3]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  92) Start from each point
+       Start from 4, 4 - Test 1:
+
+      expected { coords: [ 3, 4 ], patches: 1 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[[4,4]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+  93) Start from each point
+       Start from 4, 4 - Test 2:
+
+      expected { coords: [ 3, 4 ], patches: 1 } to deeply match { coords: [ 3, 4 ], patches: +0 }
+      + expected - actual
+
+         "coords": [
+           3
+           4
+         ]
+      -  "patches": 1
+      +  "patches": 0
+       }
+      
+      at JSONResponse.seeResponseContainsJson (C:\Users\Work\node_modules\codeceptjs\lib\helper\JSONResponse.js:199:42)
+      at Step.run (C:\Users\Work\node_modules\codeceptjs\lib\step.js:122:47)
+      at C:\Users\Work\node_modules\codeceptjs\lib\actor.js:134:23
+  
+  Scenario Steps:
+  - I.seeResponseContainsJson({"coords":[3,4],"patches":0}) at Test.<anonymous> (.\start_from_each_test.js:16:11)
+  - I.seeResponseCodeIsSuccessful() at Test.<anonymous> (.\start_from_each_test.js:15:11)
+  - I.sendPostRequest("/", {"roomSize":[5,5],"coords":[4,4],"patches":[[4,4]],"instructions":"W"}) at Test.<anonymous> (.\start_from_each_test.js:9:11)
+  
+
+
+  FAIL  | 9 passed, 93 failed   // 846ms
+Run with --verbose flag to see complete NodeJS stacktrace
