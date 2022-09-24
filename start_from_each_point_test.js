@@ -35,7 +35,7 @@ for(var x = 0; x < 5; x++){
 for(var x = 0; x < 5; x++){
     for(var y = 0; y < 5; y++){
         direction = x==4 ? 'W' : 'E'
-        title = `Start from ${x}, ${y} and move ${direction}`
+        title = `Start from a dirt patch at ${x}, ${y} and move ${direction}`
         travelOneEW(title, x, y, [x, y], direction)        
     }
 }
